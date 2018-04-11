@@ -1,0 +1,22 @@
+{
+  "name": "ipify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timothyuan/ipify.git"
+  },
+  "author": "Timothy Yuan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timothyuan/ipify/issues"
+  },
+  "homepage": "https://github.com/timothyuan/ipify#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
